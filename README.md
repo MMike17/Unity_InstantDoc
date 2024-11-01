@@ -1,4 +1,4 @@
-# Unity_InstantDoc
+# Instant Doc
 
 _This tool is a Unity editor tool._
 
