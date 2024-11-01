@@ -18,7 +18,7 @@ You can download the Unity documentation for your _current editor version_ throu
 ![](.Screenshots/Hub.png)
 
 Once the documentation is found, the tool will index it and be ready to be used.\
-Enter a search term in the search bar and a list of results will be available.
+Enter a search term in the search bar and click the "Search" button. A list of results will be available.
 
 ![](.Screenshots/Menu.png)
 
